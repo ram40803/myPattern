@@ -72,5 +72,6 @@ public class Ram {
         }
 
         System.out.println();
+        sc.close();
     }
 }

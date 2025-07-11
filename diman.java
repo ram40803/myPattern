@@ -27,5 +27,6 @@ public class diman {
             }
             System.out.println(" ");
         }
+        sc.close();
     }
 }

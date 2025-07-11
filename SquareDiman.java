@@ -33,5 +33,7 @@ public class SquareDiman {
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }
